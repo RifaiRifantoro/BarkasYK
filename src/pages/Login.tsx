@@ -71,7 +71,7 @@ const Login = () => {
         className="w-[287px] h-[29px] bg-bekasin-dark rounded-[22px] flex items-center justify-center mb-16"
       >
         <span className="font-gabarito font-medium text-[20px] text-bekasin-teal">
-          Sing in witw Email
+          Sing in with Email
         </span>
       </button>
 
